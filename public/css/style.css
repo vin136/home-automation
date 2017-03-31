@@ -1,0 +1,35 @@
+body {
+    font-family: 'trebuchet MS', 'Lucida sans', Arial;
+    font-size: 20px;
+    color: #666;
+    background: linear-gradient(rgba(200, 200, 200, 0.45),rgba(200, 200, 200, 0.45));
+    width: 480px;
+    margin: 0 auto;
+    padding-top: 20px;}
+
+.button {
+    /*background-color: #4caf50;*/
+    border: none;
+    color: white;
+    position:relative;
+    display: block;
+    margin: 0 auto;
+    padding: 5px 40px;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.relay {
+    width: 50%;
+    margin: 0 auto; 
+}
+
+#control {
+    border:1px solid black;
+}
+
+p {
+    text-align: center;
+}
